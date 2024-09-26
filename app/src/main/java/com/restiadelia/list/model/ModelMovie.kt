@@ -13,25 +13,25 @@ object MovieList {
       val itemModel1 = ModelMovie(
          R.drawable.avatar,
          "Avatar",
-         "Avatar (2009) A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
+         "Film Avatar ditayangkan secara perdana di Odeon Leicester Square pada tanggal 10 Desember 2009[4] dan dirilis di Britania Raya pada tanggal 17 Desember 2009 dan di Amerika Serikat pada tanggal 18 Desember 2009.[5][6] Film ini mendapatkan review positif dari para kritikus."
       )
 
       val itemModel2 = ModelMovie(
          R.drawable.batman,
          "Batman",
-         "Batman (1989) Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne. ??grantss"
+         "Batman (manusia kelelawar) adalah tokoh pahlawan super fiksi yang diciptakan oleh seniman Bob Kane dan penulis Bill Finger[1][2] dan diterbitkan oleh DC Comics. Tokoh ini pertama muncul di Detective Comics #27 (Mei 1939). Identitas asli Batman adalah Bruce Wayne, seorang pengusaha yang kaya raya. Nama Bruce Wayne itu sendiri diambil dari nama tokoh sejarah, yaitu Robert the Bruce dan Anthony Wayne.[6]"
       )
 
       val itemModel3 = ModelMovie(
          R.drawable.end_game,
          "End Game",
-         "Avengers: Endgame (2019) After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face..."
+         "Avengers: Endgame adalah film pahlawan super Amerika tahun 2019 yang berdasarkan kisah tim pahlawan super Avengers dari Marvel Comics. Film yang diproduksi oleh Marvel Studios dan didistribusikan oleh Walt Disney Studios Motion Pictures ini adalah sekuel langsung Avengers: Infinity War (2018) dan merupakan film ke-22 Marvel Cinematic Universe (MCU). Film ini disutradarai oleh Anthony dan Joe Russo dan ditulis oleh Christopher Markus dan Stephen McFeely, dan menampilkan pemeran ensambel di antaranya Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, dan Josh Brolin. Pada film ini, anggota Avengers yang masih hidup dan para sekutunya berusaha untuk membalikkan kerusakan yang disebabkan oleh Thanos dalam Infinity War."
       )
 
       val itemModel4 = ModelMovie(
          R.drawable.hulk,
          "Hulk",
-         "Hulk (2003) Bruce is an ordinary Gamma expert who one day gets blasted with radiation and somehow survives. But in the process a monster was born. Now whenever he gets angry he grows bigger and stronger until he is no longer Bruce Banner. He becomes The Hulk\n"
+         "Hulk, adalah tokoh pahlawan super fiksi yang ada pada Marvel Comics. DIciptakan oleh Stan Lee dan Jack Kirby, tokoh ini pertama kali muncul di The Incredible Hulk pada tanggal 1 Mei 1962 . Pada tahun 2008, majalah Wizard memberikan julukan kepada Hulk sebagai tokoh dari ketujuh Marvel Comics terhebat[3] Empire Magazine menamakannya sebagai keempat belas tokoh komik dan rangking lima terbesar dari Marvel.[4]"
       )
 
       val itemModel5 = ModelMovie(
@@ -49,25 +49,25 @@ object MovieList {
       val itemModel7 = ModelMovie(
          R.drawable.jurassic_world,
          "Jurassic World",
-         "Jurassic World (2015) Twenty-two years after the original Jurassic Park failed, the new park, also known as Jurassic World, is open for business. After years of studying genetics, the scientists on the park genetically engineer a new breed of dinosaur, the Indominus Rex. When everything goes horribly wrong, will our heroes make it off the island? ??ahmetkozan\n"
+         "Jurassic World adalah film aksi fiksi ilmiah Amerika Serikat tahun 2015 .[3] Ini adalah angsuran keempat dari waralaba Jurassic Park dan yang pertama dalam trilogi Jurassic World. Disutradarai oleh Colin Trevorrow, ditulis oleh Rick Jaffa dan Amanda Silver, bersama Derek Connolly dan Trevorrow, dan diproduksi oleh Frank Marshall dan Patrick Crowley, dan dibintangi oleh Chris Pratt, Bryce Dallas Howard, Vincent D'Onofrio, Ty Simpkins, Nick Robinson, Omar Sy, B. D. Wong, dan Irrfan Khan. Ditetapkan 22 tahun setelah peristiwa Jurassic Park, Jurassic World terjadi di pulau fiksi yang bernama Isla Nublar, yang terletak di lepas pantai Pasifik dari Kosta Rika. taman hiburan kloning dinosaurus yang sukses, dijuluki Dunia Jurassic, telah beroperasi di pulau itu selama bertahun-tahun, membawa impian John Hammond membuahkan hasil. Taman menjadi kacau ketika dinosaurus transgenik melarikan diri dari kandangnya dan mengamuk, sementara konspirasi yang diatur oleh staf taman menciptakan lebih banyak bahaya."
       )
 
       val itemModel8 = ModelMovie(
          R.drawable.lucy,
          "Lucy",
-         "Lucy (2014) It was supposed to be a simple job. All Lucy had to do was deliver a mysterious briefcase to Mr. Jang. But immediately Lucy is caught up in a nightmarish deal where she is captured and turned into a drug mule for a new and powerful synthetic drug. When the bag she is carrying inside of her stomach leaks, Lucy's body undergoes unimaginable changes that begins to unlock her mind's full potential. With her new-found powers, Lucy turns into a merciless warrior intent on getting back at her captors. She receives invaluable help from Professor Norman, the leading authority on the human mind, and French police captain Pierre Del Rio. ??LeiaSolo"
+         "Lucy\" adalah film aksi fiksi ilmiah yang mengikuti kisah Lucy, seorang wanita muda yang secara tidak sengaja terlibat dalam perdagangan narkoba. Setelah menelan dosis obat yang membuatnya dapat menggunakan lebih banyak potensi otaknya, Lucy mulai mengembangkan kemampuan luar biasa seperti telekinesis, manipulasi waktu, dan kecerdasan yang meningkat. Dengan kekuatan barunya, ia berusaha membalas dendam dan mencari cara untuk menggunakan kemampuannya untuk mengubah dunia. Film ini mengangkat tema tentang potensi manusia dan batasan fisik."
       )
 
       val itemModel9 = ModelMovie(
          R.drawable.spider_man,
          "Spider-man",
-         "Spider-Man (2002) Based on Marvel Comics' superhero character, this is a story of Peter Parker who is a nerdy high-schooler. He was orphaned as a child, bullied by jocks, and can't confess his crush for his stunning neighborhood girl Mary Jane Watson. To say his life is \"miserable\" is an understatement. But one day while on an excursion to a laboratory a runaway radioactive spider bites him... and his life changes in a way no one could have imagined. Peter acquires a muscle-bound physique, clear vision, ability to cling to surfaces and crawl over walls, shooting webs from his wrist ... but the fun isn't going to last. An eccentric millionaire Norman Osborn administers a performance enhancing drug on himself and his maniacal alter ego Green Goblin emerges. Now Peter Parker has to become Spider-Man and take Green Goblin to the task... or else Goblin will kill him. They come face to face and the war begins in which only one of them will survive at the end. ??Soumitra"
+         "Spider-Man adalah film superhero yang mengisahkan Peter Parker, seorang remaja yang mendapatkan kekuatan super setelah digigit oleh laba-laba yang terpapar radiasi. Dengan kekuatan ini, ia memutuskan untuk menggunakan kemampuannya untuk melindungi New York City dari berbagai ancaman, termasuk musuh bebuyutannya, seperti Green Goblin dan Doctor Octopus. Cerita ini mengangkat tema tanggung jawab dan pengorbanan, serta perjalanan Peter untuk menyeimbangkan kehidupan sebagai pelajar dan sebagai pahlawan."
       )
 
       val itemModel10 = ModelMovie(
          R.drawable.venom,
          "Venom",
-         "Venom (2018) After a faulty interview with the Life Foundation ruins his career, former reporter Eddie Brock's life is in pieces. Six months later, he comes across the Life Foundation again, and he comes into contact with an alien symbiote and becomes Venom, a parasitic antihero."
+         "Venom adalah film yang berfokus pada Eddie Brock, seorang jurnalis yang terinfeksi oleh simbiote alien bernama Venom. Setelah terhubung dengan Venom, Eddie mendapatkan kekuatan super, tetapi juga harus menghadapi konflik batin dan ancaman dari musuh yang berbahaya. Film ini mengeksplorasi hubungan antara Eddie dan Venom, serta perjuangan Eddie untuk menjadi pahlawan meskipun dengan cara yang tidak konvensional. Tema utama film ini mencakup identitas dan konflik moral."
       )
 
       val itemList: ArrayList<ModelMovie> = ArrayList()
