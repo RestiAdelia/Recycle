@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var btnBuku: Button
     private lateinit var btnList: Button
     private lateinit var btnBuah: Button
+    private lateinit var btnMovie: Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -23,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         btnBuku = findViewById(R.id.btnBuku)
         btnList = findViewById(R.id.btnList)
         btnBuah = findViewById(R.id.btnBuah)
+        btnMovie = findViewById(R.id.btnMovie)
 
         btnList.setOnClickListener {
             val intentToList = Intent(this, list::class.java)
@@ -37,6 +39,10 @@ class MainActivity : AppCompatActivity() {
         btnBuah.setOnClickListener {
             val intentToRecycleBuah = Intent(this, RecycleBuah::class.java)
             startActivity(intentToRecycleBuah) // Perbaikan di sini
+        }
+        btnMovie.setOnClickListener {
+            val intentToMovie = Intent(this, Movie::class.java)
+            startActivity(intentToMovie) // Perbaikan di sini
         }
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->

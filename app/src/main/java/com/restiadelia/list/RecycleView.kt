@@ -11,7 +11,7 @@ import com.restiadelia.list.adapter.BukuAdapter
 import com.restiadelia.list.model.ModelBuku
 
 class RecycleView : AppCompatActivity() {
-    private lateinit var rv_data: RecyclerView
+        private lateinit var rv_data: RecyclerView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
