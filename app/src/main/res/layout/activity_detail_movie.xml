@@ -16,11 +16,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="30dp"
-            android:background="#00BCD4"
+            android:background="@color/black"
             android:padding="15sp"
             android:text="Daftar Film"
+            android:textAlignment="center"
             android:textColor="#EDE5E5"
-            android:textSize="24sp"
+            android:textSize="22sp"
             android:textStyle="bold" />
 
         <TextView
@@ -46,15 +47,15 @@
             android:layout_height="wrap_content"
             android:text="Sinopsis"
             android:textAlignment="center"
-            android:textSize="16dp"
+            android:textSize="20dp"
             android:textStyle="bold"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/txtSinopsisDetail"
-            android:layout_margin="10dp"
-            android:text="lorem"/>
+            android:layout_margin="8dp"
+            android:text="descrip"/>
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
