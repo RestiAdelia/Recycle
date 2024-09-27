@@ -17,33 +17,35 @@ object MovieList {
       )
 
       val itemModel2 = ModelMovie(
+         R.drawable.end_game,
+         "End Game",
+         "Avengers: Endgame adalah film pahlawan super Amerika tahun 2019 yang berdasarkan kisah tim pahlawan super Avengers dari Marvel Comics. Film yang diproduksi oleh Marvel Studios dan didistribusikan oleh Walt Disney Studios Motion Pictures ini adalah sekuel langsung Avengers: Infinity War (2018) dan merupakan film ke-22 Marvel Cinematic Universe (MCU). Film ini disutradarai oleh Anthony dan Joe Russo dan ditulis oleh Christopher Markus dan Stephen McFeely, dan menampilkan pemeran ensambel di antaranya Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, dan Josh Brolin. Pada film ini, anggota Avengers yang masih hidup dan para sekutunya berusaha untuk membalikkan kerusakan yang disebabkan oleh Thanos dalam Infinity War."
+
+      )
+
+      val itemModel3 = ModelMovie(
          R.drawable.batman,
          "Batman",
          "Batman (manusia kelelawar) adalah tokoh pahlawan super fiksi yang diciptakan oleh seniman Bob Kane dan penulis Bill Finger[1][2] dan diterbitkan oleh DC Comics. Tokoh ini pertama muncul di Detective Comics #27 (Mei 1939). Identitas asli Batman adalah Bruce Wayne, seorang pengusaha yang kaya raya. Nama Bruce Wayne itu sendiri diambil dari nama tokoh sejarah, yaitu Robert the Bruce dan Anthony Wayne.[6]"
       )
 
-      val itemModel3 = ModelMovie(
-         R.drawable.end_game,
-         "End Game",
-         "Avengers: Endgame adalah film pahlawan super Amerika tahun 2019 yang berdasarkan kisah tim pahlawan super Avengers dari Marvel Comics. Film yang diproduksi oleh Marvel Studios dan didistribusikan oleh Walt Disney Studios Motion Pictures ini adalah sekuel langsung Avengers: Infinity War (2018) dan merupakan film ke-22 Marvel Cinematic Universe (MCU). Film ini disutradarai oleh Anthony dan Joe Russo dan ditulis oleh Christopher Markus dan Stephen McFeely, dan menampilkan pemeran ensambel di antaranya Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, dan Josh Brolin. Pada film ini, anggota Avengers yang masih hidup dan para sekutunya berusaha untuk membalikkan kerusakan yang disebabkan oleh Thanos dalam Infinity War."
+      val itemModel4 = ModelMovie(
+         R.drawable.venom,
+         "Venom",
+         "Venom adalah film yang berfokus pada Eddie Brock, seorang jurnalis yang terinfeksi oleh simbiote alien bernama Venom. Setelah terhubung dengan Venom, Eddie mendapatkan kekuatan super, tetapi juga harus menghadapi konflik batin dan ancaman dari musuh yang berbahaya. Film ini mengeksplorasi hubungan antara Eddie dan Venom, serta perjuangan Eddie untuk menjadi pahlawan meskipun dengan cara yang tidak konvensional. Tema utama film ini mencakup identitas dan konflik moral."
       )
 
-      val itemModel4 = ModelMovie(
-         R.drawable.hulk,
-         "Hulk",
-         "Hulk, adalah tokoh pahlawan super fiksi yang ada pada Marvel Comics. DIciptakan oleh Stan Lee dan Jack Kirby, tokoh ini pertama kali muncul di The Incredible Hulk pada tanggal 1 Mei 1962 . Pada tahun 2008, majalah Wizard memberikan julukan kepada Hulk sebagai tokoh dari ketujuh Marvel Comics terhebat[3] Empire Magazine menamakannya sebagai keempat belas tokoh komik dan rangking lima terbesar dari Marvel.[4]"
-      )
 
       val itemModel5 = ModelMovie(
          R.drawable.inception,
          "Inception",
-         "Inception (2010) Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming. ??Warner Bros. Pictures"
+         "Inception adalah film fiksi ilmiah yang disutradarai oleh Christopher Nolan, mengisahkan tentang Dom Cobb (diperankan oleh Leonardo DiCaprio), seorang pencuri yang sangat terampil dalam seni inception – memasuki mimpi seseorang dan mencuri informasi dari alam bawah sadar mereka. Cobb diberi misi yang sangat berbahaya, bukan untuk mencuri, melainkan untuk menanamkan ide ke dalam pikiran seseorang. Untuk melakukannya, ia harus bersama timnya masuk ke mimpi dalam mimpi, menciptakan lapisan mimpi yang semakin dalam. Film ini mengangkat tema kompleks tentang realitas, mimpi, dan alam bawah sadar, dengan teka-teki psikologis yang mendalam."
       )
 
       val itemModel6 = ModelMovie(
          R.drawable.jumanji,
          "Jumanji",
-         "Jumanji: Welcome to the Jungle (2017) In a brand-new Jumanji adventure, four high-school kids discover an old video-game console and are drawn into the game's jungle setting, literally becoming the adult avatars they chose. What they discover is that you don't just play Jumanji--you must survive it. To beat the game and return to the real world, they must go on the most dangerous adventure of their lives, discover what Alan Parrish left 20 years ago, and change the way they think about themselves --or they'll be stuck in the game forever, to be played by others without break. ??Sony Pictures"
+         "Jumanjiadalah film petualangan fantasi yang berfokus pada sebuah permainan papan (atau video game dalam versi modern) misterius yang memiliki kekuatan ajaib. Siapa pun yang bermain game ini akan tersedot ke dalam dunia petualangan berbahaya, di mana mereka harus menyelesaikan tantangan untuk bisa keluar. Dalam film versi baru seperti Jumanji: Welcome to the Jungle, sekelompok remaja terjebak dalam tubuh avatar karakter video game dengan kemampuan unik, dan mereka harus bekerja sama untuk bertahan hidup di dunia Jumanji yang penuh jebakan, hewan buas, dan teka-teki. Film ini menonjolkan tema kerja sama, persahabatan, dan keberanian dalam menghadapi situasi ekstrem."
       )
 
       val itemModel7 = ModelMovie(
@@ -65,10 +67,11 @@ object MovieList {
       )
 
       val itemModel10 = ModelMovie(
-         R.drawable.venom,
-         "Venom",
-         "Venom adalah film yang berfokus pada Eddie Brock, seorang jurnalis yang terinfeksi oleh simbiote alien bernama Venom. Setelah terhubung dengan Venom, Eddie mendapatkan kekuatan super, tetapi juga harus menghadapi konflik batin dan ancaman dari musuh yang berbahaya. Film ini mengeksplorasi hubungan antara Eddie dan Venom, serta perjuangan Eddie untuk menjadi pahlawan meskipun dengan cara yang tidak konvensional. Tema utama film ini mencakup identitas dan konflik moral."
+         R.drawable.hulk,
+         "Hulk",
+         "Hulk, adalah tokoh pahlawan super fiksi yang ada pada Marvel Comics. DIciptakan oleh Stan Lee dan Jack Kirby, tokoh ini pertama kali muncul di The Incredible Hulk pada tanggal 1 Mei 1962 . Pada tahun 2008, majalah Wizard memberikan julukan kepada Hulk sebagai tokoh dari ketujuh Marvel Comics terhebat[3] Empire Magazine menamakannya sebagai keempat belas tokoh komik dan rangking lima terbesar dari Marvel.[4]"
       )
+
 
       val itemList: ArrayList<ModelMovie> = ArrayList()
       itemList.add(itemModel1)
