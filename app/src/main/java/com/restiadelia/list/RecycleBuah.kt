@@ -22,11 +22,12 @@ class RecycleBuah : AppCompatActivity() {
         rv_buah = findViewById(R.id.rv_buah)
 
         // Use GridLayoutManager with a span count
-        rv_buah.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, true)
+        rv_buah.layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, true)
 
         // Set adapter
-        val adapter = BuahAdapter(MockList.getModel() as ArrayList<ModelBuah>, this)
-
+        val adapter = BuahAdapter(MockList.getModel(this) as ArrayList<ModelBuah>, this)
+    rv_buah.adapter=adapter
+     //   pripareDataBuah()
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
@@ -34,4 +35,41 @@ class RecycleBuah : AppCompatActivity() {
             insets
         }
     }
-}
+//
+//    private fun pripareDataBuah() {
+//                val itemModel1 = ModelBuah(
+//                    image = R.drawable.apple,
+//                    nama = "Apple",
+//                    lokasi = "indonesia",
+//                    R.string.st_apel.toString()
+//
+//                )
+//        itemModel1.add
+//                val itemModel2 = ModelBuah(
+//                    image = R.drawable.grapes,
+//                    nama = "Anggur",
+//                    lokasi = "indonesia",
+//                    R.string.st_Anggur.toString()
+//                )
+//                val itemModel3 = ModelBuah(
+//                    image = R.drawable.orange,
+//                    nama = "Jeruk",
+//                    lokasi = "indonesia",
+//                    R.string.st_jeruk.toString()
+//                )
+//                val itemModel4 = ModelBuah(
+//                    image = R.drawable.pear,
+//                    nama = "Pir",
+//                    lokasi = "indonesia",
+//                    R.string.st_pear.toString()
+//
+//
+//                )
+//                val itemModel5 = ModelBuah(
+//                    image = R.drawable.strawberry,
+//                    nama = "Strawberry",
+//                    lokasi = "indonesia",
+//                    R.string.st_strawberry.toString()
+//                )
+//            }
+    }

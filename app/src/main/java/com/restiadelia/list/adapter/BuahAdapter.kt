@@ -52,6 +52,8 @@ class BuahAdapter( val itemList: ArrayList<ModelBuah>,
             // kita put data untuk kita passed ke detail
             intent.putExtra("image", itemList[position].image)
             intent.putExtra("nama", itemList[position].nama)
+            intent.putExtra("lokasi", itemList[position].lokasi)
+            intent.putExtra("descripsi", itemList[position].descripsi)
             // passed ke detail
             getActivity.startActivity(intent)
         }
